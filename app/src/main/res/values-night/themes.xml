@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Song" parent="Theme.AppCompat.DayNight.NoActionBar">
+    </style>
+    <!--tiles-->
+    <style name="tiles_titre_musique">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/rhm</item>
+    </style>
+    <style name="tiles_artist_name">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/rhb</item>
+    </style>
+
+    <!--tiles-->
+    <style name="Title">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">45sp</item>
+        <item name="fontFamily">@font/rhb</item>
+    </style>
+</resources>

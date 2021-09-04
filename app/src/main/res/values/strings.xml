@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">song</string>
+
+    <!--new_user-->
+    <string name="New_user_sing_in">Connexion</string>
+    <string name="New_user_log_in">S’inscrire</string>
+    <string name="New_user_password">Mots de passe</string>
+    <string name="New_user_repeat_Password">Répéter le Mots de passe</string>
+    <string name="New_user_email">Email</string>
+    <string name="New_user_confirm">Confirmer</string>
+    <string name="New_user_retour">Retour</string>
+
+    <!--Friend-->
+    <string name="Friend_Profile_name">Briac</string>
+    <string name="Friend_Profile_profession">Dev</string>
+    <string name="Friend_Name_search">Nom</string>
+    <string name="Friend_hashtag_search">#111</string>
+    <!--Genres-->
+    <string name="Genres_Rock">Rock</string>
+    <string name="Genres_Techno">Techno</string>
+    <string name="Genres_Reggae">Reggae</string>
+    <string name="Genres_K_pop">K-pop</string>
+    <string name="Genres_Emo_rap">Emo_rap</string>
+    <string name="Genres_Rap">Rap</string>
+    <string name="Genres_Dubstep">Dubstep</string>
+    <string name="Genres_Pop">Pop</string>
+    <string name="Genres_Punk">Punk</string>
+    <!--Title-->
+    <string name="Title_hello_message">Bonjour</string>
+    <string name="Title_News">Les nouveautés</string>
+    <string name="Title_recommendation">recommandation</string>
+    <string name="Title_Search">Rechercher</string>
+    <string name="Title_Albums">Albums</string>
+    <string name="Title_Musiques">Musiques</string>
+    <string name="Title_Podcasts">Podcasts</string>
+
+    <!--Tiles-->
+    <string name="Tiles_app_name">song</string>
+    <string name="Tiles_title_music">Titre</string>
+    <string name="Tiles_title_Artiste">Artiste</string>
+    <string name="Tiles_Invite">Invité un amis</string>
+
+    <!--Settings-->
+    <string name="Settings_votre_profil_title">Votre Profil</string>
+    <string name="Settings_votre_profil_subtitle">Gerer votre profil</string>
+    <string name="Settings_General_title">Général</string>
+    <string name="Settings_General_subtitle">Paramètre généraux</string>
+    <string name="Settings_Son_title">son</string>
+    <string name="Settings_Son_subtitle">Gerer le son</string>
+    <string name="Settings_Statistiques_title">Statistiques</string>
+    <string name="Settings_Statistiques_subtitle">Voir vos differentes statistiques</string>
+    <string name="Settings_Avancer_title">Avancer</string>
+    <string name="Settings_Avancer_subtitle">Pour les nerd</string>
+    <string name="Settings_Affichage_title">Affichage</string>
+    <string name="Settings_Affichage_subtitle">Modifier l’interface</string>
+    <string name="Settings_Nous_aidées_title">Nous aidées</string>
+    <string name="Settings_Nous_aidées_subtitle">Aidez nous à améliorer l’app</string>
+    <!--Player-->
+    <string name="Player_Title">Titre</string>
+    <string name="Player_Artistre">Artiste</string>
+    <!--En savoir plus-->
+    <string name="Know_more_Title">En savoir plus</string>
+    <string name="Know_more_add_to_playlist">Ajouter a une playlist</string>
+    <string name="Know_more_play_next">Ecouter juste après</string>
+    <string name="Know_more_go_to_album">Acceder à l’album</string>
+    <string name="Know_more_go_to_artist">Voir l’artiste</string>
+    <string name="Know_more_share">Partager</string>
+    <string name="image_user">image user</string>
+
+</resources>

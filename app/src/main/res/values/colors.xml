@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#F1F1F1</color>
+    <color name="blue_bright">#4BA3BF</color>
+    <color name="blue_dark">#1F5493</color>
+    <color name="black">#121212</color>
+    <color name="dark_blur">#414141</color>
+    <color name="dark_card">#262626</color>
+</resources>
